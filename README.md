@@ -6,3 +6,4 @@ a drag and drop example for draft-js editor by react-dnd
 * check the live demo in `examples/draft-0-9-1/dnd/dnd.html`
 
 **NOTE:**_the demo is for mobile browser, please run it in mobile browser or Chrome mobile emulator_ 
+**NOTE:**_if you need run the dnd.html by `file://` protocol other than `http://`, please copy the code in dnd.js into `<script type="text/babel"></scrpit>`_ 
