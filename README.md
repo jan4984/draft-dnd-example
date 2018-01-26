@@ -1,4 +1,7 @@
 # draft-dnd-example
+
+![](http://i.imgur.com/Pm8OHVN.gif)
+
 a drag and drop example for draft-js editor by react-dnd
 
 * check [draft-js](https://github.com/facebook/draft-js) with commit 2de3c450ff7882e24d9abd4d7a9017cd8905d0c7
